@@ -1,4 +1,4 @@
-# CTO_Healthaton_Team_45-Repo
+# CTO_Healthathon_Team_45-Repo
 Healthathon Project led by Alexander Wilson
 
 [Repo Management]
